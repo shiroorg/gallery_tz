@@ -1,0 +1,16 @@
+{
+    "auth": {
+        "login": {
+            "main": ["view"],
+            "additional": []
+        },
+        "registration": {
+            "main": ["view"],
+            "additional": []
+        },
+        "recover": {
+            "additional": [],
+            "main": ["view"]
+        }
+    }
+}
